@@ -1,0 +1,50 @@
+.background-picture {
+  background-image: url("../../assets/LoginBackground.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.white-container {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 20px;
+  height: 80%;
+  margin-top: 5vh;
+  min-width: 32%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.signup-header {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+label {
+  margin-top: 8vh;
+}
+
+input {
+  border-bottom: 1px solid #000;
+  outline: none;
+  /* width: 350px; */
+  background-color: white;
+}
+
+input:focus {
+  border-bottom: 2px solid #000;
+}
+
+.submit-btn {
+  font-size: 20px;
+  color: white;
+  margin-top: 6vh;
+  border-radius: 2rem;
+}
