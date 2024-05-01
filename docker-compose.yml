@@ -1,0 +1,27 @@
+version: "3.4"
+services:
+  vite_docker:
+    image: node:alpine
+    container_name: vite_docker
+    ports:
+      - 8000:8000
+    working_dir: /srv/app
+    volumes:
+      - type: bind
+        source: ./
+        target: /srv/app
+    tty: true
+    command: sh -c "npm install --legacy-peer-deps && npm run dev"
+    depends_on:
+      - db
+  db:
+    image: mariadb:latest
+    container_name: db
+    volumes:
+      - db-data:/var/lib/mysql
+      - ./scripts/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports: 
+      - "3306:3306"
+      
+volumes:
+  db-data: {}

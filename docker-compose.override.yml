@@ -1,0 +1,8 @@
+version: "3.4"
+services:
+  db:
+    environment:
+      MYSQL_ROOT_PASSWORD: ${VITE_MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${VITE_MYSQL_DATABASE}
+      MYSQL_USER: ${VITE_MYSQL_USER}
+      MYSQL_PASSWORD: ${VITE_MYSQL_PASSWORD}
