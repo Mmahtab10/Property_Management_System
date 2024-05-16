@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-![Demo](src/assets)
+![Demo](src/assets/giphy.mp4)
 
 ### Development Environment
 
