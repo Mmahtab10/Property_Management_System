@@ -7,7 +7,8 @@
 
 ## Getting Started
 
-![giphy](https://github.com/Mmahtab10/Property_Management_System/assets/53919885/062df546-15d1-47c0-ad1f-a7b5d4952198)
+![fH](https://github.com/Mmahtab10/Property_Management_System/assets/53919885/14a020b8-ae58-4e9c-91f3-cac4a735ad44)
+
 
 ### Development Environment
 
