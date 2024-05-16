@@ -14,13 +14,14 @@
 
 To set up and run the application in a development environment:
 
-1. **Start Docker**: Make sure the Docker application is running.
-2. **Run Docker Compose**:
+1. **Clone the repository to your local**
+2. **Start Docker**: Make sure the Docker application is running.
+3. **Run Docker Compose**:
     ```bash
     docker compose up
     ```
     This command will create the frontend and database containers.
-3. **Access the Application**: Once the frontend container is running, it will display the port to access the application (default: 8000, if available).
+4. **Access the Application**: Once the frontend container is running, it will display the port to access the application (default: 8000, if available).
 
 ### Production Environment
 
