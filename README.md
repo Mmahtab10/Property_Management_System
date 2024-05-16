@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-<img src="src/assets/firstHome.gif" width="450" height="450"/>
+<img src="src/assets/firstHome.gif" width="250" height="250"/>
 
 ### Development Environment
 
