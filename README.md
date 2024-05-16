@@ -7,6 +7,8 @@
 
 ## Getting Started
 
+![Demo](assets/images/giphy.mp4)
+
 ### Development Environment
 
 To set up and run the application in a development environment:
