@@ -6,8 +6,7 @@
 - **WSL (Windows Subsystem for Linux)**: Required for running Docker on Windows.
 
 ## Getting Started
-
-![Uploading firstHome.gif…]()
+![firstHome](https://github.com/Mmahtab10/Property_Management_System/assets/53919885/688c4180-2727-44f2-ae20-f0ce6587730a)
 
 
 ### Development Environment
