@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-[![Watch the video](src/assets/logo.png)](src/assets/giphy.mp4)
+[![Watch the video](src/assets/logo.jpg)](src/assets/giphy.mp4)
 
 ### Development Environment
 
