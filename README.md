@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-![giphy](https://github.com/Mmahtab10/Property_Management_System/assets/53919885/0814dc1a-9b80-40d8-ad25-f6110ba5034b)
+![Uploading firstHome.gif…]()
 
 
 ### Development Environment
