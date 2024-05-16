@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-[![Watch the video](src/assets/logo.jpg)](src/assets/giphy.mp4)
+![Demo GIF](<iframe src="https://giphy.com/embed/fitVfFjITezvp3ta8m" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fitVfFjITezvp3ta8m">via GIPHY</a></p>)
 
 ### Development Environment
 
