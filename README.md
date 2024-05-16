@@ -30,6 +30,15 @@ To set up and run the application in a production environment:
     This command will create only the frontend container, as the backend is hosted on an AWS Lightsail instance.
 2. **Access the Application**: The command line will display the port to access the application.
 
+## Technologies Used
+1. Node.js
+2. AWS (EC2, S3, Route 53)
+3. Next.js
+4. Express.js
+5. Tailwind CSS
+6. Redux
+7. Docker
+
 ## Additional Information
 
 - **Frontend Container**: Hosts the user interface for the application.
