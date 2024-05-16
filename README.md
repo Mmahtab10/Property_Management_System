@@ -7,10 +7,8 @@
 
 ## Getting Started
 
-<video width="320" height="240" controls>
-  <source src="https://yuja.ucalgary.ca/V/Video?v=1038151&node=5500102&a=148689269" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![giphy](https://github.com/Mmahtab10/Property_Management_System/assets/53919885/0814dc1a-9b80-40d8-ad25-f6110ba5034b)
+
 
 ### Development Environment
 
