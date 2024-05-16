@@ -7,7 +7,10 @@
 
 ## Getting Started
 
-![Demo GIF](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/fitVfFjITezvp3ta8m" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fitVfFjITezvp3ta8m">via GIPHY</a></p>)
+<video width="320" height="240" controls>
+  <source src="https://yuja.ucalgary.ca/V/Video?v=1038151&node=5500102&a=148689269" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Development Environment
 
