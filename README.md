@@ -50,4 +50,4 @@ To set up and run the application in a production environment:
 
 Ensure you have the necessary permissions and network configurations to run Docker and access the application ports.
 
-For any issues or further instructions, please refer to our [documentation](https://yuja.ucalgary.ca/V/Video?v=1038151&node=5500102&a=148689269).
+For any issues or further instructions, please refer to the [documentation](https://yuja.ucalgary.ca/V/Video?v=1038151&node=5500102&a=148689269).
